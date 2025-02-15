@@ -1,0 +1,9 @@
+../Core/Src/mqtt_functions.c:20:13:mqtt_event_handler	4
+../Core/Src/mqtt_functions.c:36:6:mqtt_init	2
+../Core/Src/mqtt_functions.c:49:6:mqtt_publish_message	2
+../Core/Src/mqtt_functions.c:66:6:mqtt_poll	1
+../Core/Src/mqtt_functions.c:70:6:mqtt_cleanup	1
+../Core/Src/mqtt_functions.c:75:6:print_ip_address	1
+../Core/Src/mqtt_functions.c:79:7:read_temperature	1
+../Core/Src/mqtt_functions.c:83:10:mg_millis	1
+../Core/Src/mqtt_functions.c:88:6:mg_random	2

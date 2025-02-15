@@ -1,0 +1,11 @@
+../Core/Src/bmp180.c:11:6:BMP180_WriteReg	32	static
+../Core/Src/bmp180.c:17:9:BMP180_ReadReg	32	static
+../Core/Src/bmp180.c:24:6:SendCalibrationData	72	static
+../Core/Src/bmp180.c:65:6:BMP180_ReadCalibrationData	24	static
+../Core/Src/bmp180.c:80:9:BMP180_ReadTemperature	16	static
+../Core/Src/bmp180.c:87:7:BMP180_CalculateTemperature	32	static
+../Core/Src/bmp180.c:105:9:BMP180_ReadUncompensatedPressure	32	static
+../Core/Src/bmp180.c:123:9:BMP180_CalculatePressure	56	static
+../Core/Src/bmp180.c:154:6:cbuff_new	16	static
+../Core/Src/bmp180.c:161:6:cbuff_add	16	static
+../Core/Src/bmp180.c:172:10:avg_temperature	32	static
